@@ -1,0 +1,3 @@
+[submodule "testy"]
+	path = submodule
+	url = https://github.com/LinuxMercedes/testy.git
