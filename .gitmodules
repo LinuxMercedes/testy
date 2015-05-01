@@ -1,0 +1,4 @@
+[submodule "NOPE"]
+	path = NOPE
+	url = https://github.com/LinuxMercedes/testy.git
+	branch = master
